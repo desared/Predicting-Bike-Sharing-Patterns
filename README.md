@@ -29,8 +29,9 @@ jupyter notebook
 * The data comes from: [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 ## Results to expect:
 ### Training and validation loss:
-![GitHub Logo](/assets/loss.png)
+![GitHub Logo](/assets/loss.PNG)
 ### Predictions after training:
-![GitHub Logo](/assets/predictions.png)
+![GitHub Logo](/assets/predictions.PNG)
 ## Conclusions
 The predictions are satisfactory given that the dataset does not have sufficient holiday training examples. 
+The training loss has a value of 0.066 and the validation loss is 0.170. 
