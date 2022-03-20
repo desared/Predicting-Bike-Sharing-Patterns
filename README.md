@@ -1,5 +1,5 @@
 # Predicting-Bike-Sharing-Patterns
-Project for [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), unit 2.
+Project for [Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101), unit 2 (Neural Networks).
 
 Using Numpy, forward and back propagation is implemented to predict Bike-Sharing Patterns. This is the first Udacity Project from the Deep Learning Nanodegree. 
 ![GitHub Logo](/assets/neural_network.png)
